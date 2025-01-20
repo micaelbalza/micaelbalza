@@ -17,13 +17,13 @@ Ambos pela **Universidade Federal do Rio Grande do Norte (UFRN)**.
 ## 🌟 **Destaques**
 
 ### 🚀 **Projetos Recentes**
-- **[Planejamento de Rotas com Meta-heurísticas](https://github.com/...)**  
+- **[Planejamento de Rotas com Meta-heurísticas](https://github.com/micaelbalza/IC-IA-webots_loop)**  
   Desenvolvimento de algoritmos de planejamento e navegação em ambientes dinâmicos desconhecidos para sistemas robóticos autônomos.
 
 - **Gêmeos Digitais e IA Generativa para Indústria Têxtil (privado no GitLab)**  
   Desenvolvimento de um módulo escalonador de processos usando meta-heurísticas e cGANs, além da criação de um sistema de gêmeos digitais utilizando aprendizado de máquina para prever estados de teares, aumentando a eficiência da produção.
 
-- **[Consultoria em IA para Empresas de Tecnologia](https://github.com/...)**  
+- **[Consultoria em IA para Empresas de Tecnologia](https://github.com/micaelbalza/AI_Consulting)**  
   Desenvolvimento de materiais para cursos introdutórios, exemplos práticos, direcionamento estratégico para implantação de tecnologias de IA e acompanhamento personalizado para atender às necessidades específicas das empresas.
 
 - **Escalonamento Horizontal em Kubernetes (privado no GitLab)**  
